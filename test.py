@@ -13,7 +13,7 @@ except ImportError:
 
 # 屏幕宽度和高度
 WIDTH = 80
-HEIGHT = 25
+HEIGHT = 24
 
 # 字符集（日文半角、数字、英文字母）
 CHARS = [
